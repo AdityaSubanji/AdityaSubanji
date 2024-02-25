@@ -1,4 +1,4 @@
-![logo](76e9238fca30a0fc41b6f5fac75b516b.jpg)
+![logo](background.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Subanji</h1>
 <h3 align="center">A passionate developer from India</h3>
